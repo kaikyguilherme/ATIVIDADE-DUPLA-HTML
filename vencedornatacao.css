@@ -1,5 +1,5 @@
 body {
-    background-image: url(assets/pagina4.jpeg);
+    background-image: url(assets/pagina6.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -35,7 +35,6 @@ p{
     background-color: rgb(173, 166, 166, 0.5);
 }
 
-
 button {
     display: block;
     margin: 30px auto;
@@ -45,7 +44,7 @@ button {
 
 a {
     display: block;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     margin: 7px;
 }

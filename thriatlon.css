@@ -31,6 +31,17 @@ h3{
     font-size: large;
 }
 
+.navegacao-botoes {
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+    border-radius: 10px;
+    justify-content: space-between;
+    justify-content: flex-end;
+    background-color: rgb(173, 166, 166, 0.5);
+}
+
+
 button{
     display: block;
     margin: auto;
